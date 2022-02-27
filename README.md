@@ -11,7 +11,5 @@ Está página e apenas para perfeiçoar meus estudos de CSS
   ##
   
   # Hi, I'm Fagner! :D
-    
-[![Linkedin Badge](Fulando)
   
-[![Linkedin Badge][(https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
+https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/(https://www.linkedin.com/in/fagnerpsantos/)
