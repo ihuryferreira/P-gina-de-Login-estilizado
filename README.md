@@ -10,6 +10,6 @@ Está página e apenas para perfeiçoar meus estudos de CSS
 </div
   ##
   
-  # Hi, I'm Fagner! :D
+  # Link para Ver a Página
   
-<a href="https://www.linkedin.com/in/fernanda-ruaro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://ihuryferreira.github.io/P-gina-de-Login-estilizado/index.html/" target="_blank"><img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" target="_blank"></a> 
