@@ -12,4 +12,4 @@ Está página e apenas para perfeiçoar meus estudos de CSS
   
   # Link para Ver a Página
   
-<a href="https://ihuryferreira.github.io/P-gina-de-Login-estilizado/index.html/" target="_blank"><img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" target="_blank"></a> 
+<a href="https://ihuryferreira.github.io/P-gina-de-Login-estilizado/index.html/" target="_blank"><img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<BLUE>" target="_blank"></a> 
