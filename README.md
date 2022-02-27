@@ -12,4 +12,4 @@ Está página e apenas para perfeiçoar meus estudos de CSS
   
   # Hi, I'm Fagner! :D
   
-https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/
+<a href="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/></a> 
